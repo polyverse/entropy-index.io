@@ -18,7 +18,7 @@ The fundamental definition of EI is bounded by efficacy *in face of attack*. We 
 
 Measuring Efficacy serves three purposes:
 * EI is an effective number to help compare and contrast the defensive posture of two systems. 
-  Especially for audition and compliance.
+  Especially for auditing and compliance.
 
 * Help prioritizaton of cyber defense strategies to drive the most effective defense for the least investment.
 
